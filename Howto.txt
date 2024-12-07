@@ -1,0 +1,9 @@
+HOWTO
+pip install -r requirements.txt
+
+Here is the work I have completed, approximately 99% finished.
+
+#command> pip install pycurl certifi colorama termcolor playwright
+#command> playwright install
+
+Now you can run the bot at qxbroker.com.py.
